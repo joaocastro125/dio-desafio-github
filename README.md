@@ -6,15 +6,15 @@ Repositório criado o desafio de projeto
 
 <hr>
 
-Nome:João Emanoel de Souza Araujo Castro <br>
-Endereço:Avenida Marcio da silva , balneario meia ponte <br>
-Cidade:Goiânia - GO <br>
-Estado Civel:casado
+Nome: João Emanoel de Souza Araujo Castro <br>
+Endereço: Avenida Marcio da silva , balneario meia ponte <br>
+Cidade: Goiânia - GO <br>
+Estado Civel: casado
 
 <hr>
 Formação
 Nível : Ensino meio completo <br>
-Nível :Ensino superior - Análise de desenvolvimento de sistema <br>
+Nível : Ensino superior - Análise de desenvolvimento de sistema <br>
 <hr>
 curso extras 
 - html
@@ -31,7 +31,7 @@ curso extras
 
 - git/github
 
-## frameword ou libs/plataformas
+frameword ou libs/plataformas
 
 - nodejs
 
